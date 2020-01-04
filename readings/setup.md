@@ -5,7 +5,7 @@ title: bcwebcourse.github.io
 
 ---
 
-# <img src="img/logo.png" width="30px"> CSCI2254 Web Application Development
+# <img src="/assets/images/logo.png/logo.png" width="30px"> CSCI2254 Web Application Development
 
 
 There is a variety of ways to setup a web development environment. You are welcomed to use your own familiar setup if you have any.
