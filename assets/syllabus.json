@@ -1,0 +1,36 @@
+{
+    "info":{
+        "semester":"Spring",
+        "year":"2020",
+        "days":"Mon/Wed",
+        "start_date":"Jan 13, 2020"
+    },
+    "schedule":[
+        {
+            "title": "Course Introduction",
+            "desc":"Why students would take this course? What will be covered and how we learn it? We will also go over course logistics.",
+            "type":"lecture",
+            "readings":[]
+        },
+        {
+            "title": "HTML",
+            "desc":"What skills do we need for visualization development for the web? This lab will introduce HTML & CSS, the most basic building blocks for creating a web page.",
+            "type":"lab",
+            "readings":[
+                {
+                    "title":"Development Environment Setup",
+                    "link":"https://bcwebcourse.github.io/readings/setup"
+                },
+                {
+                    "title":"HTML Tutorial (Introduction, Basic, Elements, Attributes, File Paths, Head)",
+                    "link":"https://www.w3schools.com/html/default.asp"
+                },
+                {
+                    "title":"HTML5 Semantics",
+                    "link":"https://www.w3schools.com/html/html5_semantic_elements.asp"
+                    
+                }
+            ]
+        }
+    ]
+}

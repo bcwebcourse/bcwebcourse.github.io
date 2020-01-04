@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:title" content="Boston College Web Application Development Course">
+    <meta property="og:description" content="Learn to develop useful and usable web-based applications">
+    <meta property="og:image" content="https://bcwebcourse.github.io/assets/images/logo.png">
+    <meta property="og:url" content="https://bcwebcourse.github.io/">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="author" content="Nam Wook Kim">
+    
+    <title>Boston College Web Application Development Course</title>
+    <link rel="icon" href="assets/images/favicon.ico" type="image/png" sizes="16x16 32x32">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700" rel="stylesheet">
+    <link rel="stylesheet" href="assets/styles/index.css">
+    
+    <!--dependencies-->
+        <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/remarkable/1.7.1/remarkable.min.js"></script> -->
+        <!-- <script src="https://d3js.org/d3-time.v1.min.js"></script>
+        <script src="https://d3js.org/d3-time-format.v2.min.js"></script>
+        <script src="https://d3js.org/d3-dsv.v1.min.js"></script>
+        <script src="https://d3js.org/d3-collection.v1.min.js"></script> -->
+        <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/99/three.min.js"></script> -->
+        
+        <script src="assets/scripts/index.js" type="module"></script>
+        <!-- <script src="assets/scripts/homepage.js" type="module"></script> -->
+        
+        
+    </head>
+    
+    <body>
+        <nav class="navbar">
+            <div class="navitem"><a class="navitem" href="#about">About</a></div>
+            <div class="navitem"><a class="navitem" href="#staff">Staff</a></div>
+            <div class="navitem"><a class="navitem" href="#objectives">Learning Objectives</a></div>
+            <div class="navitem"><a class="navitem" href="#schedule">Schedule</a></div>
+            <div class="navitem"><a class="navitem" href="#logistics">Logistics</a></div>
+            <div class="navitem"><a class="navitem" href="#grading">Grading</a></div>
+            <div class="navitem"><a class="navitem" href="#policies">Policies & Practices</a></div>
+            <div class="navitem"><a class="navitem" href="#fame">Hall of Fame</a></div>
+            <!-- <div class="navitem"><a class="navitem" href="#credits">Credits</a></div> -->
+        </nav>
+        <div class="mobilenavbar">
+            <i class="fas fa-bars"></i>
+        </div>
+        <main class="container" id="about">
+            <h1 class="title"><img src="assets/images/logo.png" width="25px"/> CSCI2254  Web Application Development</h1>
+            <section>
+                <div class="teaser"> <img src="assets/images/teaser.png"></div>
+                <p class="description">
+                    The web connects our society, providing enormous opportunities for changing and improving how we live every day from sharing information to interacting with others. We have witnessed the power of the web through a variety of web-based applications, including social media apps like Instagram and Twitter, productivity apps like Google Docs and Slack, as well as transportation apps like Uber and Lyft. These apps are now deeply emersed in our everyday lives and drastically changed how we communicate, work and move in recent years. 
+                    <br><br>
+                    In this course, students will learn how to develop responsive and interactive web applications. We begin by learning basics including HTML, CSS, Javascript, as well as advanced client-side frameworks such as Material-UI and React.js. We will also briefly touch on server-side issues including a web server (Node.js), data storages (Web Storage, MongoDB, and Firebase), and asynchronous communication between a client and a server. The course will culminate with a final project where students take a human-centered design approach to address the need of people by building a sophisticated web application.
+                </p>
+                <p>
+                    <strong>Time</strong>: MoWe 4:30-5:45 pm <br/>
+                    <strong>Location</strong>: Carney 303 <br/>
+                    <strong>Submission</strong>: <a href="https://bostoncollege.instructure.com/courses/1603613" target="_blank">Canvas</a> <br/>
+                    <strong>Q & A</strong>: <a href="https://piazza.com/bc/spring2020/csci2254" target="_blank">Piazza</a>
+                    
+                </p>
+                <p>
+                    <strong>Prerequisites</strong><br/>
+                    CSCI 1101 (CS I) + Strong enthusiasm for developing useful apps for people! Independence and willingness to take the initiative to learn and spend extra time to study on your own. The course can give you a structure but cannot cover all minor details. 
+                </p>
+                
+                <p>
+                    <strong>Textbooks</strong><br/>
+                    There is no required textbook. Reading materials will be available online.
+                </p>
+            </section>
+            <section id="staff">
+                <h2 class="title">Teaching Staff</h2>
+                <p>
+                    <strong>Instructor</strong>: Nam Wook Kim <br/>
+                    Email: nam.wook.kim at bc.edu <br/>
+                    Office: St. Mary's Hall S256 <br/>
+                    <strong>Office Hour</strong>: MoWe 5:45-6:45 pm, reserve a <a href="https://calendly.com/namwkim85/15min" target="_blank">15 min slot</a> at least 30 min in advance.
+                </p>
+                <p>
+                    <strong>Teaching Assistant</strong>: Tiffany Wang<br/>
+                    Email: wangaxo at bc.edu <br/>
+                    <br>
+                    <strong>Teaching Assistant</strong>: Pedro De Almeida Rosa Guimaraes<br/>
+                    Email: dealmeip at bc.edu <br/>
+                    
+                </p>
+            </section>  
+            <section id="objectives">
+                <h2 class="title">Learning Objectives</h2>
+                <p>
+                    By the end of this course, students will be able to:
+                        <li>
+                            Understand a technology stack necessary for modern software development.
+                        </li>               
+                        <li>
+                            Design and build usable and useful web-based applications addressing real-world needs.
+                        </li>
+                        <li>
+                            Apply a human-centered design process from discovering ideas to implementing and evaluating prototypes. 
+                        </li>
+                    </ol>
+                </p>
+
+            </section>
+            <section id="schedule">
+                <h2 class="title">Schedule</h2>
+                <div class="search">
+                    <input type="text" name='schedule' placeholder="Search Schedule by Week #, Title, Date, ...">
+                </div>
+                <div class="filter">
+                        <div class="chip selected"  data-cond="all-schedule">All</div>
+                    <div class="chip" data-cond="next-schedule">Next</div>
+                    <div class="chip " data-cond="lecture-schedule">Lectures</div>
+                    <div class="chip" data-cond="lab-schedule">Labs</div>
+                </div>
+                <div class="schedule">
+
+                </div>
+            </section>
+                <!-- <ul>
+                    <li><a href="https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC51504713400001021&context=L&tab=bcl_only&search_scope=bcl&vid=bclib_new&lang=en_US" target="_blank">Visualization Analysis and Design, Tamara Munzner, A K Peters/CRC Press, 2014</a></li>
+                    <li><a href="https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC51504132070001021&context=L&tab=bcl_only&search_scope=bcl&vid=bclib_new&lang=en_US" target="_blank">Interactive Data Visualization for the Web - 2nd Edition, Scott Murray, O'Reilly Press</a><br>
+                        <a target="_blank" href="https://github.com/alignedleft/d3-book/">Code examples</a>
+                    </li>
+                </ul> -->
+                
+
+            
+            <section id="logistics">
+                <h2 class="title">Logistics</h2>
+                <br>
+                <strong>Lectures & Labs</strong><br>
+                <p>
+                    Most classes are structured with a brief lecture on the technical knowledge and a workshop-like lab in which the instructor provides a live coding demo and students follow the demo.<br>
+                    <strong>Please bring laptops to all labs</strong>
+
+                </p>
+                
+                <strong>Readings & Quizzes</strong>
+                <p>
+                    Each class will assume that you have completed pre-class readings. There will be quizzes due before the class to test your readings.
+                </p>
+                
+                <strong>Weekly Assignments</strong>
+
+                <p>
+                    Each weekly assignment will build up towards one of the following projects:
+                </p>
+                <em>1. Portfolio website</em>
+                <p>
+                    You will use vanilla HTML, CSS, and Javascript to build your personal Portfolio website. 
+                </p>
+                <em>2. Social Media app</em>
+                <p>
+                    You will use advanced web development frameworks such as React to build a simple social media app.
+                </p>
+
+                <em>3. Final Project</em>
+                <p>
+                    You will follow a human-centered design process to identify an interesting problem faced by people and build a web-based application to address the need.
+                </p>
+
+            </section> 
+            <section id="grading">
+                <h2 class="title">Grading</h2>
+                <p>A student’s grade will be based on:</p>
+                <ul>
+                    <li>Quizzes - 20% (5 lowest scored quizzes will be droped)</li>
+                    <li>Portfolio website 15%</li>
+                    <li>Social media app 25%</li>
+                    <li>Final Project - 40%</li>
+                </ul>
+                <p>A letter grade is assigned based on the following guideline (A is excellent; B is good; C is satisfactory; D is passing but unsatisfactory; F is failure):</p>
+                <ul>
+                    <li>A: 100-94%; A-: 90-94%</li>
+                    <li>B+: 87-90%; B: 84-87%; B-: 80-84%</li>
+                    <li>C+: 77-80%; C: 74-77%; C-: 70-74%</li>
+                    <li>D+: 67-70%; D: 64-67%: D-: 61-64%</li>
+                    <li>F &lt 61%</li>
+                </ul>
+            </section> 
+            <section id="policies">
+                <h2 class="title">Policies & Practices</h2>
+                <br>
+                <div>
+                    <h3 class="title">Course Policy</h3>
+                    <p>
+                        <strong>Laptop policy</strong><br>
+                        Labtops are required in all lab-based classes. However, students may not use laptops, tablets, phones or other electronic devices during lectures, especially in guest lectures, unless explicitly asked to do so.
+                    </p>
+                    <p>
+                        <strong>Mandatory Attendance</strong><br>
+                        Attendance is not tracked but you may miss critical tips and advices for completing assignments. You may end up spending much more time if you tackle the assignments alone. Also, interacting and practicing with your peers is critical part of your learning.
+                        
+                    </p>
+                    <p>
+                        <strong>Late submission policy</strong><br>
+                        10 % of total possible points will be automatically deducted per each late day. The lowest grade possible is set to 60%.
+                        <br><br>
+                        <em>Example:</em> <br>
+                        If you submits 8 days late to an assignment worth 10 points, your grade would be 2 points if you were awarded full credit on the assignment (8 days late x 1 point deducted per day = 8 point late Penalty). However, based on the 60% lowest grade possible, your grade will be adjusted to 6 points.
+                    </p>
+                    <p>
+                        <strong>Regrade policy</strong><br>
+                        Fair and transparent grading is important. Please contact us know if you think there is an error or unreasonable deduction in your assignment. Only regrading requests within 7 days after the initial grade are accepted.
+                    </p>
+                </div>
+              
+                <div>
+                    <h3 class="title">Accessibility</h3>
+                    <p>
+                        If you have a disability and will be requesting accommodations for this course, please register with either Dr. Kathy Duggan (dugganka@bc.edu), Associate Director, Connors Family Learning Center (learning disabilities or AHD) or Dean Rory Stein, (rory.stein@bc.edu), Assistant Dean for students with disabilities, (all other disabilities).
+
+                        Advance notice and appropriate documentation are required for accommodations.
+                    </p>
+                </div>
+                <div>
+                    <h3 class="title">Academic Policy</h3>
+                    <p>
+                        Students are required to adhere to the <a href="https://www.bc.edu/content/bc-web/academics/sites/university-catalog/policies-procedures.html#academic_integrity_policies" target="_blank">academic policy</a> of Boston College.
+                    </p>
+                </div>
+                <div>
+                    <h3 class="title">Commitment to Inclusion</h3>
+                    <p>
+                        It is our intention that students from all diverse backgrounds and perspectives be well-served by this course, that students’ learning needs be addressed both in and out of class, and that the diversity that students bring to this class be viewed as a resource, strength and benefit. It is our intent to present materials and activities that are respectful of diversity: gender, sexuality, disability, age, socio-economic status, ethnicity, race, and culture. Your suggestions are encouraged and appreciated. Please let me know ways to improve the effectiveness of the course for you personally or for other students or student groups.
+                    </p>
+                </div>
+                <div>
+                    <h3 class="title">Code of Conduct</h3>
+                    <p>
+                        We follow <a href="https://www.acm.org/code-of-ethics" href="_blank">ACM Code of Ethics</a>, focusing on the following:
+                    <ul>
+                        <li>
+                                Demonstrate professionalism (e.g., being on time and respect in teamworks)
+                        </li>
+                        <li>
+                                Promote fair, inclusive, and collaborative learning environment
+                        </li>
+                        <li>
+                                Reject behavior that strays into any form of harassments
+                        </li>
+                        </ul>
+                    </p>
+                </div>
+            </section>
+            <section id="fame">
+                <h2 class="title">Hall of Fame</h2>
+                <p>🏆: Best project &nbsp;&nbsp;&nbsp; 🏅: Honorable mention</p>
+                <div>
+                    <h3 class="title">2020</h3>
+                    <div class="award">             
+                        TBD
+                    </div>
+                </div>
+                    
+
+            </section>
+            <!-- <section id="credits">
+                <h2 class="title">Credits</h2>
+                <p></p>
+            </section> -->
+        </main>
+        <footer>
+            Copyright © <span id="copyright-year"></span> Nam Wook Kim. 
+            <!-- The website code is <a href="https://github.com/namwkim/namwkim.github.io" target="_blank">here</a>.  -->
+            <!-- 3D models in the background by 
+                <a href="https://poly.google.com/user/b7jif2AAit5" target="_blank">Alex “SAFFY” Safayan</a> and
+                <a href="https://poly.google.com/user/1aLhJHbABkb" target="_blank">14islands Lab</a> are licensed under <a href="https://creativecommons.org/licenses/by/2.0/" target="_blank">CC BY 2.0</a> -->
+            </footer>
+        </body>
+        
+        </html>
+        
