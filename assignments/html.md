@@ -7,7 +7,7 @@ title: bcwebcourse.github.io
 
 # <img src="../assets/images/logo.png" width="30px"> CSCI2254 Web Application Development
 
-In this assignment, you will structure your portfolio website using HTML. The outcome will look like the following image:
+In this assignment, you need to create HTML only web pages for your portfolio website. The outcome should be similar to what we did in the HTML class.
 
 ## Create a Github repository
 
