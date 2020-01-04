@@ -1,7 +1,7 @@
 --- 
 
 layout: default
-title: setup
+title: bcwebcourse.github.io
 
 ---
 
