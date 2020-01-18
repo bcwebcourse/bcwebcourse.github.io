@@ -14,7 +14,7 @@
         },
         {
             "title": "HTML",
-            "desc":"What skills do we need for visualization development for the web? This lab will introduce HTML & CSS, the most basic building blocks for creating a web page.",
+            "desc":"We will use HTML to build a structure for your portfolio website.",
             "type":"lab",
             "readings":[
                 {
@@ -22,7 +22,7 @@
                     "link":"https://bcwebcourse.github.io/readings/setup"
                 },
                 {
-                    "title":"HTML Tutorial (Introduction, Basic, Elements, Attributes, Blocks, File Paths, Head)",
+                    "title":"HTML Tutorial: Introduction, Basic, Elements, Attributes, Blocks, File Paths, Head",
                     "link":"https://www.w3schools.com/html/default.asp"
                 },
                 {
@@ -31,6 +31,29 @@
                     
                 }
             ]
+        },
+        {
+            "title": "CSS Basics",
+            "desc": "We will learn how to use CSS to style a web page. In the lab, you will use CSS to style the HTML code you wrote",
+            "type":"lab",
+            "readings":[
+                {
+                    "title": "HTML Tutorial: Id and classes",
+                    "link":"https://www.w3schools.com/html/"
+
+                },
+                {
+                    "title":"CSS Tutorial: Introduction, Syntax, Selectors, How to, Box Model, Display, Position, Inline-block, Pseudo-class, Combinators, Pseudo-element",
+                    "link":"https://www.w3schools.com/css/default.asp"
+
+                },
+                {
+                    "title":"CSS Advanced: Box-sizing, Flexbox",
+                    "link":"https://www.w3schools.com/css/default.asp"
+
+                }
+            ]
         }
+
     ]
 }
