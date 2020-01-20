@@ -92,7 +92,7 @@ function renderDaySchedule(d){
             &nbsp;<span>${d.slides?`(<a href="${d.slides}" target="_blank">Slides</a>)`:''}</span>
         </div>
         <div class="content">
-            <p class="desc">${d.desc}</p>
+            <p class="desc">${d.desc?d.desc:''}</p>
             <p class="readings">
                 ${d.readings.length>0?renderReadings(d.readings):'<ul><li><strong>No Readings!</strong></li></ul>'}
             </p>

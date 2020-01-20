@@ -8,13 +8,11 @@
     "schedule":[
         {
             "title": "Course Introduction",
-            "desc":"Why students would take this course? What will be covered and how we learn it? We will also go over course logistics.",
             "type":"lecture",
             "readings":[]
         },
         {
             "title": "HTML",
-            "desc":"We will use HTML to build a structure for your portfolio website.",
             "type":"lab",
             "readings":[
                 {
@@ -33,8 +31,7 @@
             ]
         },
         {
-            "title": "CSS Basics",
-            "desc": "We will learn how to use CSS to style a web page. In the lab, you will use CSS to style the HTML code you wrote",
+            "title": "CSS Basics: Selectors, Box Model, Flexbox",
             "type":"lab",
             "readings":[
                 {
@@ -51,6 +48,21 @@
                     "title":"CSS Advanced: Box-sizing, Flexbox",
                     "link":"https://www.w3schools.com/css/default.asp"
 
+                }
+            ]
+        },
+        {
+            "title": "CSS Advanced: Media queries & CSS Frameworks",
+            "type":"lab",
+            "readings":[
+                {
+                    "title":"CSS Responsive Web Design: Introduction, Viewport, Media Queries, CSS Frameworks",
+                    "link":"https://www.w3schools.com/css/css_rwd_intro.asp"
+                },
+                {
+                    "title":"(Optional) CSS Grid: Intro",
+                    "link":"https://www.w3schools.com/css/css_grid.asp",
+                    "required":false
                 }
             ]
         }
