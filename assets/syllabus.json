@@ -65,6 +65,37 @@
                     "required":false
                 }
             ]
+        },
+        {
+            "title":"Javascript: Basics, DOM, and JSON",
+            "type":"lab",
+            "readings":[
+                {
+                    "title":"Basics: From Introduction to Objects, Array Methods, Array Iteration, JSON, Comparisons, Conditions, Scope",
+                    "link":"https://www.w3schools.com/js/default.asp"
+                },
+                {
+                    "title":"DOM: Intro, Methods, Document, Elements, HTML",
+                    "link":"https://www.w3schools.com/js/js_htmldom.asp"
+                },
+                {
+                    "title":"The new Javascript ES 6 Intro",
+                    "link":"https://www.w3schools.com/js/js_es6.asp"
+                },
+                {
+                    "title":"ES6: Template Literals: Multi-line, Expressions, HTML Templates",
+                    "link":"https://css-tricks.com/template-literals/"
+                },
+                {
+                    "title":"ES6: Fetch: Getting data with Fetch",
+                    "link":"https://css-tricks.com/using-fetch/"
+                },
+                {
+                    "title": "Quick Tip: Get URL Parameters with JavaScript: Getting a URL Parameter",
+                    "link":"https://www.sitepoint.com/get-url-parameters-with-javascript/"
+                }
+            ]
+
         }
 
     ]
