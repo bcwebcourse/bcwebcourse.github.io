@@ -65,6 +65,28 @@
                     "required":false
                 }
             ]
+        },
+        {
+            "title":"Javascript: Asynchronous Programming + Events",
+            "type":"lab",
+            "readings":[
+                {
+                    "title":"HTML Forms: Input Types (Radio, Search)",
+                    "link":"https://www.w3schools.com/html/html_forms.asp"
+                },
+                {
+                    "title":"Javascript DOM: Events and Event Listener",
+                    "link":"https://www.w3schools.com/js/js_htmldom_events.asp"
+                },
+                {
+                    "title":"The JavaScript this Keyword",
+                    "link":"https://www.w3schools.com/js/js_this.asp"
+                },
+                {
+                    "title":"Introduction to Asynchronous Javascript (ignore XMLHttpRequest part)",
+                    "link":"https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing"
+                }
+            ]
         }
 
     ]
