@@ -97,6 +97,20 @@
             ]
         },
         {
+            "title":"Javascript: ES6 and URL",
+            "type":"lab",
+            "readings":[
+                {
+                    "title":"The new Javascript ES 6 Intro",
+                    "link":"https://www.w3schools.com/js/js_es6.asp"
+                },
+                {
+                    "title": "Quick Tip: Get URL Parameters with JavaScript: Getting a URL Parameter",
+                    "link":"https://www.sitepoint.com/get-url-parameters-with-javascript/"
+                }
+            ]
+        },
+        {
             "title":"Javascript: Asynchronous Programming + Events",
             "type":"lab",
             "readings":[
@@ -116,6 +130,31 @@
                     "title":"Introduction to Asynchronous Javascript (ignore XMLHttpRequest part)",
                     "link":"https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing"
                 }
+            ]
+        },
+        {
+            "title":"Javascript: Modules",
+            "type":"lab",
+            "readings":[
+                {
+                    "title":"Javascript Modules Intro",
+                    "link":"https://javascript.info/modules-intro"
+                },
+                {
+                    "title":"(Optional) Export",
+                    "link":"https://developer.mozilla.org/en-US/docs/web/javascript/reference/statements/export"
+                },
+                {
+                    "title":"(Optional) Import",
+                    "link":"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import"
+                },
+                {
+                    "title":"(Optional) Closures",
+                    "link":"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures"
+                }
+
+
+
             ]
         }
 
