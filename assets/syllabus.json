@@ -141,12 +141,8 @@
                     "link":"https://javascript.info/modules-intro"
                 },
                 {
-                    "title":"(Optional) Export",
-                    "link":"https://developer.mozilla.org/en-US/docs/web/javascript/reference/statements/export"
-                },
-                {
-                    "title":"(Optional) Import",
-                    "link":"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import"
+                    "title":"(Optional) Import and Export",
+                    "link":"https://javascript.info/import-export"
                 },
                 {
                     "title":"(Optional) Closures",
