@@ -152,6 +152,32 @@
 
 
             ]
+        },
+        {
+            "title":"Javascript: Bundling",
+            "type":"lab",
+            "readings":[
+                {
+                    "title":"Install Node (includes npm & npx)",
+                    "link":"https://nodejs.org/en/download/"
+                },
+                {
+                    "title":"An Absolute Beginner's Guide to Using npm",
+                    "link":"https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/"
+                },
+                {
+                    "title":"Webpack Getting Started",
+                    "link":"https://webpack.js.org/guides/getting-started/"
+                },
+                {
+                    "title":"(Optional) Webpack Concepts",
+                    "link":"https://webpack.js.org/concepts/"
+                },
+                {
+                    "title":"(Optional) Configuring a publishing source for your GitHub Pages site",
+                    "link":"https://help.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site"
+                }
+            ]
         }
 
     ]
