@@ -178,7 +178,94 @@
                     "link":"https://help.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site"
                 }
             ]
+        },
+        {
+            "title":"React: Getting Started",
+            "type":"lab",
+            "readings":[
+                {
+                    "title":"Introducing JSX",
+                    "link":"https://reactjs.org/docs/introducing-jsx.html"
+                },
+                {
+                    "title":"Rendering Elements",
+                    "link":"https://reactjs.org/docs/rendering-elements.html"
+                },
+                {
+                    "title":"Components and Props",
+                    "link":"https://reactjs.org/docs/components-and-props.html"
+                },
+                {
+                    "title":"(Optional) Javascript Classes",
+                    "link":"https://javascript.info/class"
+                },
+                {
+                    "title":"(Optional) Create React App: Getting Started",
+                    "link":"https://create-react-app.dev/docs/getting-started"
+                }
+            ]
+        },
+        {
+            "title":"React: State, Events, & Conditional Rendering",
+            "type":"lab",
+            "readings":[
+                {
+                    "title":"State and Lifecycle",
+                    "link":"https://reactjs.org/docs/state-and-lifecycle.html"
+                },
+                {
+                    "title":"Handling Events",
+                    "link":"https://reactjs.org/docs/handling-events.html"
+                },
+                {
+                    "title":"Conditional Rendering",
+                    "link":"https://reactjs.org/docs/conditional-rendering.html"
+                },
+                {
+                    "title":"(Optional) Lifting State Up",
+                    "link":"https://reactjs.org/docs/lifting-state-up.html"
+                }
+            ]
+        },
+        {
+            "title":"React: Lists & Forms",
+            "type":"lab",
+            "readings":[
+                {
+                    "title":"Lists and Keys",
+                    "link":"https://reactjs.org/docs/lists-and-keys.html"
+                },
+                {
+                    "title":"Forms",
+                    "link":"https://reactjs.org/docs/forms.html"
+                },
+                {
+                    "title":"(Optional) Composition vs Inheritance",
+                    "link":"https://reactjs.org/docs/composition-vs-inheritance.html"
+                }
+            ]
+        },
+        {
+            "title":"React: Hooks",
+            "type":"lab",
+            "readings":[
+                {
+                    "title":"Introducing Hooks",
+                    "link":"https://reactjs.org/docs/hooks-intro.html"
+                },
+                {
+                    "title":"Hooks at a Glance",
+                    "link":"https://reactjs.org/docs/hooks-overview.html"
+                },
+                {
+                    "title":"Using the State Hook",
+                    "link":"https://reactjs.org/docs/hooks-state.html"
+                },
+                {
+                    "title":"(Optional) Thinking in React (Will be helpful for planning a final project)",
+                    "link":"https://reactjs.org/docs/thinking-in-react.html"
+                }
+            ]
         }
-
     ]
 }
