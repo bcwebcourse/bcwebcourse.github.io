@@ -264,6 +264,10 @@
                 {
                     "title":"(Optional) Thinking in React (Will be helpful for planning a final project)",
                     "link":"https://reactjs.org/docs/thinking-in-react.html"
+                },
+                {
+                    "title":"(Optional) Thinking in React Hooks",
+                    "link":"https://wattenberger.com/blog/react-hooks"
                 }
             ]
         }
