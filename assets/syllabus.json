@@ -270,6 +270,24 @@
                     "link":"https://wattenberger.com/blog/react-hooks"
                 }
             ]
+        },
+        {
+            "title":"React Router",
+            "type":"lab",
+            "readings":[
+                {
+                    "title":"React Router: Quick Start",
+                    "link":"https://reacttraining.com/react-router/web/guides/quick-start"
+                },
+                {
+                    "title":"React Router: Primary Components",
+                    "link":"https://reacttraining.com/react-router/web/guides/primary-components"
+                },
+                {
+                    "title":"(Optional) React Router Examples: Basic, URL Parameters, Nesting, Redirects",
+                    "link":"https://reacttraining.com/react-router/web/example/basic"
+                }
+            ]
         }
     ]
 }
