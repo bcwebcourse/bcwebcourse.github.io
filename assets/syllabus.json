@@ -288,6 +288,46 @@
                     "link":"https://reacttraining.com/react-router/web/example/basic"
                 }
             ]
+        },
+        {
+            "title":"React Context",
+            "type":"lab",
+            "readings":[
+                {
+                    "title":"React Context (excluding Class.contextType)",
+                    "link":"https://reactjs.org/docs/context.html"
+                },
+                {
+                    "title":"React Context with Hooks",
+                    "link":"https://reactjs.org/docs/hooks-reference.html#usecontext"
+                },
+                {
+                    "title":"(Optional) React Context & Hooks & Functional Components (#15, #16, #17, #18)",
+                    "link":"https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI"
+                }
+            ]
+        },
+        {
+            "title":"React Local Storage",
+            "type":"lab",
+            "readings":[
+                {
+                    "title":"Storing data in the browser (LocalStorage, sessionStorage)",
+                    "link":"https://javascript.info/localstorage"
+                },
+                {
+                    "title":"Using the Effect Hook",
+                    "link":"https://reactjs.org/docs/hooks-effect.html"
+                },
+                {
+                    "title":"(Optional) Store Values in localStorage with the React useEffect Hook - Video Tutorial",
+                    "link":"https://egghead.io/lessons/react-store-values-in-localstorage-with-the-react-useeffect-hook"
+                },
+                {
+                    "title":"(Optional) Lazy initial state - useState",
+                    "link":"https://reactjs.org/docs/hooks-reference.html#lazy-initial-state"
+                }
+            ]
         }
     ]
 }
