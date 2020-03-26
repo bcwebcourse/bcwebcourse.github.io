@@ -328,6 +328,50 @@
                     "link":"https://reactjs.org/docs/hooks-reference.html#lazy-initial-state"
                 }
             ]
+        },
+        {
+            "title":"Firebase Firestore",
+            "type":"lab",
+            "readings":[
+                {
+                    "title":"Introduction (Watch the video)",
+                    "link":"https://firebase.google.com/docs/firestore"
+                },
+                {
+                    "title":"Get Started",
+                    "link":"https://firebase.google.com/docs/firestore/quickstart"
+                },
+                {
+                    "title":"Perform simple and compound queries",
+                    "link":"https://firebase.google.com/docs/firestore/query-data/queries"
+                },
+                {
+                    "title":"Firestore Setup (Prerequisite for the lab)",
+                    "link":"https://www.notion.so/Firebase-Setup-fa69af8ca69b423193d8eea0fff5ffe6"
+                }
+            ]
+        },
+        {
+            "title":"Firebase Firestore",
+            "type":"lab",
+            "readings":[
+                {
+                    "title":"Introduction (Watch the video)",
+                    "link":"https://firebase.google.com/docs/auth"
+                },
+                {
+                    "title":"Authentication Web - Get Started",
+                    "link":"https://firebase.google.com/docs/auth/web/start"
+                },
+                {
+                    "title":"Authentication Web: Manage Users",
+                    "link":"https://firebase.google.com/docs/firestore/query-data/queries"
+                },
+                {
+                    "title":"(Optional) Authentication Web: Manage Users",
+                    "link":"https://firebase.google.com/docs/auth/web/manage-users"
+                }
+            ]
         }
     ]
 }
