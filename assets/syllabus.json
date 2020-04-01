@@ -365,7 +365,7 @@
                 },
                 {
                     "title":"Authentication Web: Manage Users",
-                    "link":"https://firebase.google.com/docs/firestore/query-data/queries"
+                    "link":"https://firebase.google.com/docs/auth/web/manage-users"
                 },
                 {
                     "title":"(Optional) Authentication Web: Manage Users",
