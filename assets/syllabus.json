@@ -97,6 +97,12 @@
             ]
         },
         {
+            "title":"Javascript: Basics, DOM, and JSON - Continued",
+            "type":"lab",
+            "readings":[
+            ]
+        },
+        {
             "title":"Javascript: ES6 and URL",
             "type":"lab",
             "readings":[
@@ -272,6 +278,24 @@
             ]
         },
         {
+            "title":"No Class - Spring Break",
+            "type":"break",
+            "readings":[
+            ]
+        },
+        {
+            "title":"No Class - Spring Break",
+            "type":"break",
+            "readings":[
+            ]
+        },
+        {
+            "title":"Human-Centered Design",
+            "type":"lecture",
+            "readings":[
+            ]
+        },
+        {
             "title":"React Router",
             "type":"lab",
             "readings":[
@@ -330,6 +354,18 @@
             ]
         },
         {
+            "title":"No Class - Transition to Remote Teaching",
+            "type":"break",
+            "readings":[
+            ]
+        },
+        {
+            "title":"No Class - Transition to Remote Teaching",
+            "type":"break",
+            "readings":[
+            ]
+        },
+        {
             "title":"Firebase Firestore",
             "type":"lab",
             "readings":[
@@ -352,7 +388,7 @@
             ]
         },
         {
-            "title":"Firebase Firestore",
+            "title":"Firebase Auth",
             "type":"lab",
             "readings":[
                 {
@@ -371,6 +407,73 @@
                     "title":"(Optional) Authentication Web: Manage Users",
                     "link":"https://firebase.google.com/docs/auth/web/manage-users"
                 }
+            ]
+        },
+        {
+            "title":"Material UI",
+            "type":"lab",
+            "readings":[
+                {
+                    "title":"Meet Material-UI — your new favorite user interface library",
+                    "link":"https://www.freecodecamp.org/news/meet-your-material-ui-your-new-favorite-user-interface-library-6349a1c88a8c/"
+                },
+                {
+                    "title":"Learn React & Material UI - #2 Grid Layout",
+                    "link":"https://www.youtube.com/watch?v=HjToX1WWE3w&list=PLcCp4mjO-z98WAu4sd0eVha1g-NMfzHZk&index=2"
+                },
+                {
+                    "title":"React useEffect : A hook to introduce lifecycle methods in functional components",
+                    "link":"https://medium.com/@divyabiyani26/react-useeffect-a-hook-to-introduce-lifecycle-methods-in-functional-components-e7ec52897188"
+                },
+                {
+                    "title":"Learn Material-UI",
+                    "link":"https://material-ui.com/getting-started/learn/"
+                }
+            ]
+        },
+        {
+            "title":"Node JS",
+            "type":"lab",
+            "readings":[
+            ]
+        },
+        {
+            "title":"React Native",
+            "type":"lab",
+            "readings":[
+            ]
+        },
+        {
+            "title":"Guest Lecture on Graphics on the Web: Daniel Haehn, UMass Boston",
+            "type":"lecture",
+            "readings":[
+            ]
+        }
+        ,
+        {
+            "title":"No Class - Patriot's Day",
+            "type":"break",
+            "readings":[
+            ]
+        },
+        {
+            "title":"Guest Lecture on Web Frameworks: Fritz Lekschase, Harvard University",
+            "type":"lecture",
+            "readings":[
+            ]
+        }
+        ,
+        {
+            "title":"Project Showcase 1",
+            "type":"presentation",
+            "readings":[
+            ]
+        }
+        ,
+        {
+            "title":"Project Showcase 2",
+            "type":"presentation",
+            "readings":[
             ]
         }
     ]
